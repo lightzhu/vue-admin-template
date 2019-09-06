@@ -1,6 +1,5 @@
 module.exports = {
-
-  title: 'Vue Admin Template',
+  title: 'Vue-Admin简版',
 
   /**
    * @type {boolean} true | false
@@ -8,6 +7,7 @@ module.exports = {
    */
   fixedHeader: false,
 
+  tagsView: true,
   /**
    * @type {boolean} true | false
    * @description Whether show the logo in sidebar

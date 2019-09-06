@@ -13,7 +13,8 @@ import store from './store'
 import router from './router'
 
 import '@/icons' // icon
-import '@/permission' // permission control
+
+import '@/permission' // 权限控制文件
 
 /**
  * If you don't want to use mock-server
