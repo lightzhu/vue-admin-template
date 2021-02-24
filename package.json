@@ -2,7 +2,6 @@
   "name": "vue-admin-template",
   "version": "4.2.1",
   "description": "A vue admin template with Element UI & axios & iconfont & permission control & lint",
-  "author": "Pan <panfree23@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -16,6 +15,7 @@
   },
   "dependencies": {
     "axios": "0.18.1",
+    "clipboard": "^2.0.4",
     "element-ui": "2.7.2",
     "js-cookie": "2.2.0",
     "normalize.css": "7.0.0",
